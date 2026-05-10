@@ -1,0 +1,21 @@
+Northstar Retail Group
+Quarterly Access Review - Customer Portal Production
+
+Review period: 2026-Q1
+Owner: Platform Engineering
+Application: customer-portal
+Environment: prod
+
+Summary:
+The customer-portal production data bucket is restricted to the application readonly role and selected platform automation identities. Direct analyst access remains disabled. Data exports are generated through scheduled reporting jobs and reviewed by Retail Analytics.
+
+Notes:
+- The legacy CI deployment identity remains in use for customer-portal deployment workflows.
+- Platform Engineering plans to migrate deployment access to federated identity in the next quarter.
+- Terraform state access is currently limited to platform automation and state reporting workflows.
+- No direct human access to customer export objects was approved during this review.
+
+Follow-up actions:
+- Validate deployment role assumptions before the next release window.
+- Confirm state access requirements with the infrastructure reporting process.
+- Review retention settings for customer export files.

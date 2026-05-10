@@ -1,0 +1,51 @@
+customer_id,segment,orders_last_12m,avg_order_value_eur,predicted_ltv_eur,churn_risk,recommended_action
+CUST-100001,Gold,9,158.40,2210.50,Low,Invite to loyalty preview campaign
+CUST-100002,Silver,4,91.20,1045.75,Medium,Send personalized free-shipping offer
+CUST-100003,Platinum,14,302.10,5380.90,Low,Assign to premium retention journey
+CUST-100004,Standard,2,68.40,640.20,Medium,Offer replenishment reminder sequence
+CUST-100005,Gold,11,176.80,2810.40,Low,Enroll in seasonal early-access campaign
+CUST-100006,Silver,5,97.45,1250.60,Medium,Trigger category affinity discount message
+CUST-100007,Gold,10,164.10,2479.90,Low,Invite to loyalty preview campaign
+CUST-100008,Standard,3,62.75,720.15,High,Schedule win-back promotion
+CUST-100009,Platinum,16,331.40,6124.80,Low,Assign to premium retention journey
+CUST-100010,Silver,4,88.60,980.30,Medium,Send personalized free-shipping offer
+CUST-100011,Gold,8,149.25,2018.45,Low,Enroll in seasonal early-access campaign
+CUST-100012,Silver,3,83.90,940.25,High,Escalate to retention outreach queue
+CUST-100013,Standard,2,54.70,488.60,Medium,Offer replenishment reminder sequence
+CUST-100014,Gold,9,171.80,2488.35,Low,Invite to loyalty preview campaign
+CUST-100015,Silver,6,109.45,1428.80,Medium,Trigger category affinity discount message
+CUST-100016,Gold,12,184.90,3224.10,Low,Assign to premium retention journey
+CUST-100017,Platinum,15,289.70,5840.20,Low,Enroll in seasonal early-access campaign
+CUST-100018,Standard,3,61.35,690.40,High,Schedule win-back promotion
+CUST-100019,Gold,8,152.25,2274.95,Low,Invite to loyalty preview campaign
+CUST-100020,Silver,5,101.30,1264.70,Medium,Send personalized free-shipping offer
+CUST-100021,Gold,10,181.15,2968.55,Low,Assign to premium retention journey
+CUST-100022,Standard,2,59.90,702.45,Medium,Offer replenishment reminder sequence
+CUST-100023,Silver,5,94.30,1176.80,Medium,Trigger category affinity discount message
+CUST-100024,Platinum,13,276.40,4886.15,High,Issue high-value cart recovery offer
+CUST-100025,Gold,11,166.70,2842.90,Low,Enroll in seasonal early-access campaign
+CUST-100026,Silver,4,96.40,1188.25,Medium,Send personalized free-shipping offer
+CUST-100027,Standard,2,57.30,531.60,High,Schedule win-back promotion
+CUST-100028,Gold,9,159.90,2326.10,Low,Invite to loyalty preview campaign
+CUST-100029,Platinum,14,298.60,5661.75,Low,Assign to premium retention journey
+CUST-100030,Silver,5,98.20,1304.40,Medium,Trigger category affinity discount message
+CUST-100031,Gold,12,173.55,3090.80,Low,Enroll in seasonal early-access campaign
+CUST-100032,Standard,3,63.40,744.55,Medium,Offer replenishment reminder sequence
+CUST-100033,Silver,5,102.75,1280.95,Medium,Send personalized free-shipping offer
+CUST-100034,Gold,7,148.20,2094.30,Low,Invite to loyalty preview campaign
+CUST-100035,Standard,2,60.15,681.25,High,Schedule win-back promotion
+CUST-100036,Gold,13,196.40,3351.10,Low,Assign to premium retention journey
+CUST-100037,Silver,4,92.80,1124.60,Medium,Trigger category affinity discount message
+CUST-100038,Platinum,12,284.90,5318.75,High,Issue high-value cart recovery offer
+CUST-100039,Gold,9,161.45,2388.90,Low,Enroll in seasonal early-access campaign
+CUST-100040,Standard,3,58.20,702.30,Medium,Offer replenishment reminder sequence
+CUST-100041,Gold,10,177.30,2864.50,Low,Invite to loyalty preview campaign
+CUST-100042,Silver,4,89.70,1065.10,Medium,Send personalized free-shipping offer
+CUST-100043,Gold,11,169.90,2754.60,Low,Assign to premium retention journey
+CUST-100044,Standard,2,56.80,612.45,High,Schedule win-back promotion
+CUST-100045,Platinum,17,318.20,6288.55,Low,Enroll in seasonal early-access campaign
+CUST-100046,Silver,5,104.10,1350.20,Medium,Trigger category affinity discount message
+CUST-100047,Gold,7,146.60,2124.80,High,Escalate to retention outreach queue
+CUST-100048,Standard,2,59.25,655.90,Medium,Offer replenishment reminder sequence
+CUST-100049,Gold,12,188.70,3186.40,Low,Invite to loyalty preview campaign
+CUST-100050,Silver,4,95.40,1188.90,Medium,Send personalized free-shipping offer
